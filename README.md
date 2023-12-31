@@ -1,2 +1,2 @@
-# Movieapp
- learning django rest api
+# Django Rest Framework
+ learning django rest framework
